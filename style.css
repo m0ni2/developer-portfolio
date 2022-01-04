@@ -12,8 +12,10 @@ h1{
     color: orange;
 }
 section{
-    display: flex;
     margin-bottom: 100px;
+}
+.flexible-container{
+    display: flex;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
